@@ -1,4 +1,3 @@
-FROM alpine
-COPY script.sh /script.sh
-RUN chmod +x /script.sh
-CMD ["/script.sh"]
+FROM bash:4.4
+COPY script.sh /
+CMD ["bash", "/script.sh"]
