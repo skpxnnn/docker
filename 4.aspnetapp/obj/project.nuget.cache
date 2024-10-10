@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CzwOahVMj25VzGQhHJ++tYiQlbiBJPVI0+GJHOqaNKtKA8x1RKz5juJk9vg6bu/0eJUepwJq0xiqn4Rau8XgZA==",
+  "success": true,
+  "projectFilePath": "D:\\docker-training-dockerfile\\docker-training-dockerfile-1\\4.aspnetapp\\aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

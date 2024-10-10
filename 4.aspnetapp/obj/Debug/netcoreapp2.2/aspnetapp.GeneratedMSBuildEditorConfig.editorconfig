@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = aspnetapp
+build_property.ProjectDir = D:\docker-training-dockerfile\docker-training-dockerfile-1\4.aspnetapp\
